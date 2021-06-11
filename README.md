@@ -1,7 +1,9 @@
 # React-HighChart-Dashboard
 ReactJS Highchart dashboard with Node APIs.
 
+## Deployment URL
 
+Link : https://highchart-react.herokuapp.com/
 ## Steps to run the project
 
  - create a new cluster in your mongoDB account and copy the mongoDB url string for your database
